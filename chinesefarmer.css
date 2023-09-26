@@ -1,6 +1,7 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 p {
-    font-family:georgia;
+    font-family: 'Open Sans', sans-serif;;
     letter-spacing:1px;
     font-size:1.2rem;
     color:rgb(15, 13, 90);
@@ -86,4 +87,16 @@ table tr:nth-child(even){
     padding-top: 35px;
     background-repeat: no-repeat;
     background-position: 22%;
+}
+.image {
+    display: flex;
+    justify-content: space-between;
+}
+article{
+    padding : 20px;
+    margin: 20px;
+}
+
+img {
+    max-width: 600px;
 }
