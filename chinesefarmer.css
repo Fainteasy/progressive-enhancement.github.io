@@ -1,0 +1,89 @@
+
+p {
+    font-family:georgia;
+    letter-spacing:1px;
+    font-size:1.2rem;
+    color:rgb(15, 13, 90);
+}
+a {
+    color:red
+}
+a:hover {
+    color:rgb(17, 0, 255)
+}
+a:visited {
+    color:rgb(43, 187, 91)
+}
+body {
+    width: 90%;
+    margin:auto;
+    background-image: linear-gradient(to bottom right, #fafdff, #a5766d);
+    background-image: url(https://img.freepik.com/vecteurs-libre/conception-fond-abstrait-blanc_23-2148825582.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom right;    
+}
+blockquote {
+    width:50%;
+    font-size: 160%;
+    background-color: rgb(214, 211, 211);
+    border-left: 3px solid firebrick;
+    padding-left: 30px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+q,blockquote{
+    font-style: italic;
+}
+.farmer {
+    border-left: 2px solid red;
+}
+.villagers {
+    border-left: 2px solid green;
+}
+em {
+    font-style: normal;
+}
+header>h1{
+    background-color: yellow;
+}
+.good, .bad {
+    text-transform:capitalize ;
+}
+.good {
+    color:green;
+}
+.bad {
+    color:red;
+}
+table tr:nth-child(odd){
+    background-color:rgb(201, 198, 198)
+}
+table tr:nth-child(even){
+    background-color:rgb(255, 255, 255)
+}
+#bien {
+    background-image:url(https://raw.githubusercontent.com/becodeorg/Swartz-8/main/1.The-Field/8.Html-CSS/progressive-enhancement/bien.png?token=GHSAT0AAAAAACHZHYCHP3SO3JIELMHCET2AZIS4IHA);
+    padding-right: 10px;
+    padding-bottom: 15px;
+    padding-top: 35px;
+    background-repeat: no-repeat;
+    background-position: 22%;
+    
+}
+#mal {
+    background-image:url(https://raw.githubusercontent.com/becodeorg/Swartz-8/main/1.The-Field/8.Html-CSS/progressive-enhancement/mal.png?token=GHSAT0AAAAAACHZHYCGYZHFTX3L2A5EDTVOZIS4O2A);
+    padding-right: 10px;
+    padding-bottom: 15px;
+    padding-top: 35px;
+    background-repeat: no-repeat;
+    background-position: 22%;
+}
+#cat{
+    background-image:url(https://raw.githubusercontent.com/becodeorg/Swartz-8/main/1.The-Field/8.Html-CSS/progressive-enhancement/chat.png?token=GHSAT0AAAAAACHZHYCHIJ7FKTVEBSXFPG2QZIS4O7A);
+    padding-right: 10px;
+    padding-bottom: 15px;
+    padding-top: 35px;
+    background-repeat: no-repeat;
+    background-position: 22%;
+}
