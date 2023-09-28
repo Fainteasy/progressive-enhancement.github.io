@@ -64,7 +64,7 @@ table tr:nth-child(even){
     background-color:rgb(255, 255, 255)
 }
 #bien {
-    background-image:url(https://raw.githubusercontent.com/becodeorg/Swartz-8/main/1.The-Field/8.Html-CSS/progressive-enhancement/bien.png?token=GHSAT0AAAAAACHZHYCHP3SO3JIELMHCET2AZIS4IHA);
+    background-image:url(bien.png);
     padding-right: 10px;
     padding-bottom: 15px;
     padding-top: 35px;
@@ -73,7 +73,7 @@ table tr:nth-child(even){
     
 }
 #mal {
-    background-image:url(https://raw.githubusercontent.com/becodeorg/Swartz-8/main/1.The-Field/8.Html-CSS/progressive-enhancement/mal.png?token=GHSAT0AAAAAACHZHYCGYZHFTX3L2A5EDTVOZIS4O2A);
+    background-image:url(mal.png);
     padding-right: 10px;
     padding-bottom: 15px;
     padding-top: 35px;
@@ -81,7 +81,7 @@ table tr:nth-child(even){
     background-position: 22%;
 }
 #cat{
-    background-image:url(https://raw.githubusercontent.com/becodeorg/Swartz-8/main/1.The-Field/8.Html-CSS/progressive-enhancement/chat.png?token=GHSAT0AAAAAACHZHYCHIJ7FKTVEBSXFPG2QZIS4O7A);
+    background-image:url(chat.png);
     padding-right: 10px;
     padding-bottom: 15px;
     padding-top: 35px;
